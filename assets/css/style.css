@@ -1,6 +1,12 @@
+body {
+  max-width: 600px;
+  margin: auto;
+}
+
 header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 header img {
